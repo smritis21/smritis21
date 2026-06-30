@@ -9,7 +9,7 @@ Software Engineer | Full-Stack Developer | Machine Learning Systems
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/smriti-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/smriti-s-72647827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:smriti.iyer05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
