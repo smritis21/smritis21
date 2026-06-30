@@ -5,8 +5,7 @@ Software Engineer | Full-Stack Developer | Machine Learning Systems
 </p>
 
 <p align="center">
-📍 Chennai, India → Relocating to Leiden, Netherlands (Sep 2026)<br/>
-🎓 Incoming MSc Computer Science (Artificial Intelligence), Leiden University
+📍 Chennai, India <br/>
 </p>
 
 <p align="center">
@@ -19,11 +18,9 @@ Software Engineer | Full-Stack Developer | Machine Learning Systems
 ### 🚀 About Me
 
 - 🎓 Concurrent **BSc Computer Science** (CGPA 9.48/10, Best Outgoing Student) and **BS Data Science** from **IIT Madras** (GPA 8.51/10)
-- 🧠 Joining **Leiden University** in Sep 2026 for an MSc in Computer Science (AI)
 - 💼 5 months of industry experience architecting and shipping production backend systems, PostgreSQL schema design, and AI workflow automation
 - 📄 6+ peer-reviewed publications in AI/ML, cybersecurity, and neuromorphic computing
 - 🏆 National and global hackathon winner, including 1st Place at Hackspire 2025 and Top 800/31,000+ at the Meta × PyTorch × Hugging Face OpenEnv Hackathon
-- 🔭 Available part-time (16 hrs/week) for Software Engineering roles in the Netherlands starting September 2026
 
 ---
 
