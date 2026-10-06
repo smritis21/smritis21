@@ -79,15 +79,6 @@ Master of Science in Computer Science (AI) @ Leiden University | Software Engine
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smritis21&show_icons=true&theme=default&hide_border=true"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smritis21&layout=compact&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
 💬 Let's connect — open to working-student opportunities, collaborations, and conversations about AI systems and full-stack engineering.
 </p>
