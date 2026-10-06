@@ -66,19 +66,19 @@ Master of Science in Computer Science (AI) @ Leiden University | Software Engine
 
 ### 📌 Featured Projects
 
-- **[Arya-X](https://github.com/smritis21/arya)** — Multi-agent reinforcement learning environment for ISR sensor coordination with conflict-aware negotiation and GRPO fine-tuning of Qwen models (+79% cumulative reward, −50% conflict rate, +30% coordination score over baseline). Finalist, Top 800 of 31,000+ — Meta × PyTorch × Hugging Face OpenEnv Hackathon.
+- **[Arya-X](https://github.com/smritis21/arya)** - Multi-agent reinforcement learning environment for ISR sensor coordination with conflict-aware negotiation and GRPO fine-tuning of Qwen models (+79% cumulative reward, −50% conflict rate, +30% coordination score over baseline). Finalist, Top 800 of 31,000+ - Meta × PyTorch × Hugging Face OpenEnv Hackathon.
 
-- **[KisaanSakhi (AgriPulse)](https://github.com/smritis21/KisaanSakhi)** — ML-driven field-force optimization platform with offline-first architecture, conflict-resolution sync, and XGBoost retailer visit priority scoring for rural agricultural sales teams.
+- **[KisaanSakhi (AgriPulse)](https://github.com/smritis21/KisaanSakhi)** - ML-driven field-force optimization platform with offline-first architecture, conflict-resolution sync, and XGBoost retailer visit priority scoring for rural agricultural sales teams.
 
-- **[Competitive Intelligence Agent](https://github.com/smritis21/ci-agent)** — Multi-agent reasoning engine with long-term vector memory and hindsight retrieval, enabling semantic market intelligence synthesis via concurrent Groq-powered agents.
+- **[Competitive Intelligence Agent](https://github.com/smritis21/ci-agent)** - Multi-agent reasoning engine with long-term vector memory and hindsight retrieval, enabling semantic market intelligence synthesis via concurrent Groq-powered agents.
 
-- **[HavenMind Link](https://github.com/smritis21/HavenMind-Link)** — HIPAA-aligned mental health platform with encrypted data, real-time cognitive load analysis, and automated crisis escalation. 1st Place — Hackspire 2025; research published at ICCCMIT 2026 with Highest Evaluation Score.
+- **[HavenMind Link](https://github.com/smritis21/HavenMind-Link)** - HIPAA-aligned mental health platform with encrypted data, real-time cognitive load analysis, and automated crisis escalation. 1st Place - Hackspire 2025; research published at ICCCMIT 2026 with Highest Evaluation Score.
 
-- **[Hospital Management System V2](https://github.com/smritis21/hospital-management-mad2)** — Full-stack healthcare platform with async background job processing (Celery + Redis) for appointment scheduling and role-gated dashboards.
+- **[Hospital Management System V2](https://github.com/smritis21/hospital-management-mad2)** - Full-stack healthcare platform with async background job processing (Celery + Redis) for appointment scheduling and role-gated dashboards.
 
 ---
 
 
 <p align="center">
-💬 Let's connect — open to working-student opportunities, collaborations, and conversations about AI systems and full-stack engineering.
+💬 Let's connect - open to working-student opportunities, collaborations, and conversations about AI systems and full-stack engineering.
 </p>
