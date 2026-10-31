@@ -1,8 +1,7 @@
-<!-- Update the Portfolio link below if your live site URL changes (e.g. your Firebase address). -->
-<a href="https://smriti-sridhar-portfolio.netlify.app/"><img src="assets/banner.png" alt="Smriti Sridhar: MSc Artificial Intelligence at Leiden University. Intelligent systems that are explainable, practical and trustworthy." width="100%"></a>
+<a href="https://smriti-sridhar.web.app/"><img src="assets/banner.png" alt="Smriti Sridhar: MSc Artificial Intelligence at Leiden University. Intelligent systems that are explainable, practical and trustworthy." width="100%"></a>
 
 <p align="center">
-<a href="https://smriti-sridhar-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-visit%20site-7c93ff?style=flat-square&labelColor=0b0d12" alt="Portfolio"></a>
+<a href="https://smriti-sridhar.web.app/"><img src="https://img.shields.io/badge/Portfolio-visit%20site-7c93ff?style=flat-square&labelColor=0b0d12" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/smriti-s-72647827b/"><img src="https://img.shields.io/badge/LinkedIn-Smriti%20Sridhar-5eead4?style=flat-square&labelColor=0b0d12&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:smriti.iyer05@gmail.com"><img src="https://img.shields.io/badge/Email-smriti.iyer05%40gmail.com-7c93ff?style=flat-square&labelColor=0b0d12&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Based%20in-The%20Hague%2C%20NL-5eead4?style=flat-square&labelColor=0b0d12" alt="Based in The Hague, Netherlands">
@@ -15,7 +14,7 @@
 
 * * *
 
-I'm an MSc Computer Science (Artificial Intelligence) student at **Leiden University** and a software engineer who likes systems that are **explainable, practical and trustworthy**: multi-agent reinforcement learning, LLM agents, anomaly detection, and full-stack products used by real people. This profile mirrors my [portfolio](https://smriti-sridhar-portfolio.netlify.app/).
+I'm an MSc Computer Science (Artificial Intelligence) student at **Leiden University** and a software engineer who likes systems that are **explainable, practical and trustworthy**: multi-agent reinforcement learning, LLM agents, anomaly detection, and full-stack products used by real people. This profile mirrors my [portfolio](https://smriti-sridhar.web.app/).
 
 <img src="assets/stats.png" alt="9.48 CGPA, 7 publications, 13 projects, Top 800 of 31,000+ at the OpenEnv Hackathon" width="100%">
 
@@ -32,7 +31,7 @@ I'm an MSc Computer Science (Artificial Intelligence) student at **Leiden Univer
 
 ## Projects
 
-Most recent first. The full list, with details, is on the [portfolio](https://smriti-sridhar-portfolio.netlify.app/#projects).
+Most recent first. The full list, with details, is on the [portfolio](https://smriti-sridhar.web.app/#projects).
 
 ### Featured: Second Opinion
 
@@ -187,4 +186,4 @@ Seven publications, most recent first. Work under review: DeepFakeShield (transf
 
 I'm open to working-student opportunities, research collaborations, and conversations about AI systems and full-stack engineering.
 
-<a href="mailto:smriti.iyer05@gmail.com">smriti.iyer05@gmail.com</a> · <a href="https://www.linkedin.com/in/smriti-s-72647827b/">LinkedIn</a> · <a href="https://smriti-sridhar-portfolio.netlify.app/">Portfolio</a>
+<a href="mailto:smriti.iyer05@gmail.com">smriti.iyer05@gmail.com</a> · <a href="https://www.linkedin.com/in/smriti-s-72647827b/">LinkedIn</a> · <a href="https://smriti-sridhar.web.app/">Portfolio</a>
